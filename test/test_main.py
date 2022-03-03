@@ -1,5 +1,3 @@
-import pytest
-
 from main import increment_by_one
 
 
